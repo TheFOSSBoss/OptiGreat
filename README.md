@@ -1,4 +1,4 @@
-# OptiGreat
+# OptiGreat 11
 For me Windows, in contrast to Linux, can't be used out of the box. 
 It's too slow, privacy-invasive and bloated. 
 The first thing I do on a fresh Windows install is optimizing
