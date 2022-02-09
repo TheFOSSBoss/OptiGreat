@@ -1,8 +1,9 @@
 # [DISCONTINUED!]
-Because I switched to Linux (first Zorin and now Ubuntu) some time ago, I have no motivation to continue working on OptiGreat. 
-Latest Windows 11 build OptiGreat was tested on: 22000.434
+Because I switched to Linux some time ago, I have no motivation to continue working on OptiGreat. 
 
-**Because of OptiGreat's open-source nature, I really encourage you to fork my project and update it to support future Windows versions!**
+**Latest Windows 11 build OptiGreat was tested on: 22000.434**
+
+Because of OptiGreat's open-source nature, I really encourage you to fork my project and update it to support future Windows versions!
 
 # OptiGreat 11
 OptiGreat is a program created to make Windows faster, more privacy-respecting and much more secure for everyone. 
