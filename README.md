@@ -1,13 +1,17 @@
 # [DISCONTINUED!]
-Because I switched to Linux some time ago, I have no motivation to continue working on OptiGreat. 
+I switched to Linux some time ago and I have totally lost motivation to continue working on OptiGreat. 
+But because of OptiGreat's open-source nature, I really encourage you to fork my project and update it to support future Windows versions!
 
-**Latest Windows 11 build OptiGreat was tested on: 22000.434**
-
-Because of OptiGreat's open-source nature, I really encourage you to fork my project and update it to support future Windows versions!
+**Latest Windows 11 build OptiGreat was tested on:** _22000.434_
 
 # OptiGreat 11
 OptiGreat is a program created to make Windows faster, more privacy-respecting and much more secure for everyone. 
-Gamers will appreciate lowered usage of RAM, CPU and disk usage, privacy-enthusiasts may enjoy having a little less privacy-invasive system, and any casual user will notice the boost in speed.
+
+How does it do it? 
+
+By tweaking various system settings, deleting useless apps and making sure your PC is up-to-date.
+Gamers will appreciate lowered usage of RAM, CPU and disk usage, privacy-enthusiasts may enjoy the deleted telemetry, and any casual user will notice the boost in speed.
+
 
 ![image](https://user-images.githubusercontent.com/89423482/152525115-6772eb0a-c905-4684-b1eb-55dfe6a571a2.png)
 
