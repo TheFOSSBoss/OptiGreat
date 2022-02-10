@@ -1,0 +1,52 @@
+
+
+TODO:
+CHANGE THE ORDER TO THE NEW ONE
+Further improvements in UI to make everything clearer and faster to do
+
+
+NEW ORDER:
+
+:menu
+cls
+echo OPTIGREAT OPTIMIZATION PROCESS
+echo ------------------------------------------------
+echo        OptiGreat 11
+echo ------------------------------------------------
+echo Type e.g. 'op1' for Updating, 'op13' for Gaming.
+echo.
+echo 1) Updating everything              
+2) Turning off User Account Control
+echo 3) Folder options
+4) Windows Security, disabling Defender
+echo 5) Uninstalling optional features   
+6) 1st Reboot
+echo 7) Changing your default disk drive 
+echo 9) Uninstalling (ft. BCUninstaller) 
+10) Improving privacy and speed
+echo 11) Disabling telemetry              
+12) "Advanced System Configuration"
+echo 13) Configuring Windows' settings   
+echo 14) Gaming settings                 
+15) 2nd Reboot
+echo 16) Configuring Microsoft Store     
+echo 17) Compressing (OS and/or drives)  
+18) Installing all programs
+echo 19) Improving startup time          
+20) Final reboot
+echo ---
+echo Press 1 to Proceed.
+echo.
+echo Press 2 to Check Your PC Specification.
+echo.
+
+
+
+---------------------
+
+DESIGN LANGUAGE: 
+A detailed help page for every page
+Press 4 to get to previous page - to go to previous page (help7 to help6)
+Press 4 to go back -  to go to previous menu (fullop1help to fullop1)
+
+---------------------
