@@ -36,7 +36,7 @@ And many others:
  I've used many debloating scripts on my computers.
  I haven't found a single script that doesn't destroy Windows (e.g. non-working Store or broken Explorer) while also making a significant difference in performance.
  
- My main focus with OptiGreat was to make **the most effective Windows speed-up tool without sacrificing stability** - Windows remains 100% functional after the process as it is almost fully reversible!
+ My main focus with OptiGreat was to make **the most effective Windows speed-up tool without sacrificing stability** - Windows remains 100% functional after the process as it is probably fully reversible!
  
 So if you want to make your Windows 11 faster, more private,
 more secure and less resource-heavy, feel free to use OptiGreat! :)
