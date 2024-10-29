@@ -1,7 +1,3 @@
-# [DISCONTINUED!]
-I switched to Linux some time ago and I have totally lost motivation to continue working on OptiGreat. 
-But because of OptiGreat's open-source nature, I really encourage you to fork my project and update it to support future Windows versions!
-
 **Latest Windows 11 build OptiGreat was tested on:** _22000.434_
 
 # OptiGreat 11 
